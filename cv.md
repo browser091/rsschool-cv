@@ -6,9 +6,9 @@
 
 # Contacts
 
-       - +375 (29) 899-89-67
-       - [Emaail] (browser091@gmail.com)
-       - [Telegram](https://t.me/browser091)
+   - +375 (29) 899-89-67
+  - [Email](browser091@gmail.com)
+  - [Telegram](https://t.me/browser091)
        
 # Summary
        Creative, self-motivated, interested to details.
@@ -20,3 +20,20 @@
 
 # Code examples
    [View my repositories](https://github.com/browser091?tab=repositories) 
+   
+# Work experience
+       
+         2019-2020 - Сourses Coding School TeachMeSkills
+         ● Development with Javascript (and also React.js). Skills in JavaScript, HTML5, CSS, React.js.
+
+# Education
+
+        2013-2017 - Belarusian State University of Informatics and Radioelectronics
+        ● Engineer's degree, Information and communication technologies (digital television and radio broadcasting).
+          
+        2009–2013 - Belarusian State Academy of Communications (ex. Higher State College of Communications)
+        ● Communication Technician, Radio communication, broadcasting and television systems.
+
+# English
+             
+         A1
