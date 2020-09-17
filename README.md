@@ -1,2 +1,2 @@
-#[CV Markdown] https://browser091.github.io/rsschool-cv/cv
-#[CV HTML] https://browser091.github.io/rsschool-cv/
+# https://browser091.github.io/rsschool-cv/cv
+# https://browser091.github.io/rsschool-cv/
